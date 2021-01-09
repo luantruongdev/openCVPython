@@ -1,4 +1,4 @@
-https://github.com/luantruongdev/openCVPython/blob/master/Resources/resource_image.png# OpenCV learning
+# OpenCV learning
 **This folder stores my openCV project learning with python** 
 
 Want to know what is **openCV?**, you can [go here!](https://www.google.com/)
